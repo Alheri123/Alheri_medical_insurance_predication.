@@ -1,4 +1,4 @@
-# Alheri_medical_insurance_predication.
+# Alheri_medical_insurance_ cost _prediction.
 Capstone Project applying Linear Regression to predict medical insurance cost using demographic and lifestyle data.
 
 
